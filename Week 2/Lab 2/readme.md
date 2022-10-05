@@ -10,3 +10,6 @@ NB: Include Budget alarm at your preferred threshold.
 
 Guide:
 https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-create.html
+
+1.![](../../images/budget.png)
+2.![](../../images/budget%20created.png)
