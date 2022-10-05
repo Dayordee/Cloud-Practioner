@@ -23,3 +23,27 @@ Your task in this lab is to create
 
 Guides:
 https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html
+
+1. I created a group and created the corresponding user
+![](../../images/names.png)
+
+2. 
+a. I enforced a password policy
+![](../../images/password.png)
+
+c.I set the permission boundary
+![](../../images/permit.png)
+
+d. I added them to the group I created
+![](../../images/group.png)
+
+e.I reviewed my inputs
+![](../../images/review.png)
+
+f. I went to create my users
+![](../../images/create%20user.png)
+![](../../images/user%20created.png)
+
+3. I performed my clean operations
+![](../../images/Cleanup.png)
+![](../../images/cleaned.png)
